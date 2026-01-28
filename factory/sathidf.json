@@ -1,0 +1,9 @@
+{
+	"name": "sathidf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c801fcac-576f-48c2-b2b2-45e3ac41ecdd",
+		"tenantId": "9af69f2e-d899-4dbf-90d2-2cd6beeba735"
+	}
+}
